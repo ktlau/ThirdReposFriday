@@ -135,7 +135,7 @@
             this.grpSection.Margin = new System.Windows.Forms.Padding(4);
             this.grpSection.Name = "grpSection";
             this.grpSection.Padding = new System.Windows.Forms.Padding(4);
-            this.grpSection.Size = new System.Drawing.Size(185, 187);
+            this.grpSection.Size = new System.Drawing.Size(185, 145);
             this.grpSection.TabIndex = 9;
             this.grpSection.TabStop = false;
             this.grpSection.Text = "Section";
@@ -143,7 +143,7 @@
             // radBackStall
             // 
             this.radBackStall.AutoSize = true;
-            this.radBackStall.Location = new System.Drawing.Point(35, 124);
+            this.radBackStall.Location = new System.Drawing.Point(36, 106);
             this.radBackStall.Name = "radBackStall";
             this.radBackStall.Size = new System.Drawing.Size(91, 21);
             this.radBackStall.TabIndex = 9;
